@@ -3,4 +3,6 @@ Download Spotify songs, albums, and playlists to MP3 for free with Spotriff. Fas
 
 Download from:[https://www.spotriff.com/en](https://www.spotriff.com/en)
 
-![spotiry](https://gabrielvy610.github.io/Spotify-Downloader/images/spotify.png)
+![spotiry](https://gabrielvy610.github.io/Spotify-Downloader/images/spotify_show.png)
+
+![spotiry](https://gabrielvy610.github.io/Spotify-Downloader/images/spotriff.png)
