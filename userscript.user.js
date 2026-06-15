@@ -36,6 +36,7 @@
 // @name:zh-CN   Spotify下载器 - 免费下载Spotify歌曲为MP3 - Spotriff
 // @name:zh-TW   Spotify下載器 - 免費下載Spotify歌曲為MP3 - Spotriff
 // @namespace    spotriff_userscript_v
+// @author       Spotriff.com
 // @version      1.1.1
 // @icon         https://www.google.com/s2/favicons?domain=spotify.com&sz=64
 // @description  Download Spotify songs, albums, and playlists to MP3 for free with Spotriff. Fast, high-quality Spotify downloader with no registration or software installation required.
@@ -104,7 +105,7 @@
     }
 
     function buildDownloadUrl(trackId) {
-        return `https://www.spotriff.com/en?url=https://open.spotify.com/track/${trackId}`;
+        return `https://www.spotriff.com/en?no=100&url=https://open.spotify.com/track/${trackId}`;
     }
 
     function createDownloadSvg(color = '#1ed760', size = 20) {
