@@ -1,5 +1,5 @@
 # Spotify-Downloader
-Download Spotify songs, albums, and playlists as MP3 files for free with Spotriff. A fast, high-quality Spotify downloader with no registration, no software installation, and no Spotify Premium required.
+Spotriff is a Spotify downloader site/userscript that lets you download Spotify songs, albums, and playlists as high-quality MP3 files for free, with no registration, no software installation, and no Spotify Premium required.
 
 Download from:[https://www.spotriff.com/en](https://www.spotriff.com/en)
 
